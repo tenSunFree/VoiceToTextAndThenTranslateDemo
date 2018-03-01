@@ -1,4 +1,4 @@
-# VoiceToTextAndThenTranslate
+# VoiceToTextAndThenTranslateDemo
 
 簡介
 ==================================
