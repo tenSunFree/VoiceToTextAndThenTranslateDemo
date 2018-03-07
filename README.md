@@ -20,6 +20,3 @@ https://github.com/tenSunFree/SpeechToTextDemo
   <img src="https://i.imgur.com/T47jHBP.png" width="260"/>
 </p>                                 
 
-
-# 
-
